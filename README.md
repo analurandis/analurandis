@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **C#, DotNet, Cloud Azure, Devops, Java**
 
-- 👯 I’m looking to collaborate on [Cristãozinho](https://github.com/analurandis/Cristaozinho)
+- 👯 I’m looking to collaborate on [Cristãozinho](https://github.com/analurandis/BuyList)
 
 - 📫 How to reach me **analurandis@hotmail.com**
 
