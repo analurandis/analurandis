@@ -4,7 +4,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=analurandis&label=Profile%20views&color=0e75b6&style=flat" alt="analurandis" /> </p>
 
 
-- 👨‍💻 I’m currently working on **Avanade** with Java, Maven, SQL Oracle, API
+- 👨‍💻 I’m currently working on **Avanade** with C#, .Net, Postgress, APIRest, Angular
 
 - 🌱 I’m currently learning **C#, DotNet, Cloud Azure, Devops, Java**
 
